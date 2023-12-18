@@ -2,8 +2,8 @@
 FastAPIを用いた簡易的なCRUDアプリの作成 
 
 使用するソフトウェア等
-・言語：python==3.12.0
-・Webアプリケーションフレームワーク：FastAPI
+・言語：python==3.12.0  
+・Webアプリケーションフレームワーク：FastAPI  
 ・データベース：SQLite
 
 概要：  
